@@ -403,28 +403,24 @@ header.header h2 {
 }
 
 .md-content button {
-	background: #FFF;
-	border: 2px solid #4EB6AD;
-	border-radius: 50%;
-	color: #4EB6AD;
+	background: none;
+	border: 0;
+	color: #FFF;
 	display: inline-block;
 	font-size: 16px;
 	font-weight: 700;
 	height: 50px;
 	line-height: 1;
 	position: absolute;
-		top: -30px;
-		right: -10px;
+		top: 0px;
+		right: 10px;
 	text-align: center;
 	width: 50px;
 }
 
 .md-content button:hover {
-	color: #FFF;
-}
-
-.md-content button:hover{
 	background: #47aaa1;
+	color: #FFF;
 }
 
 .md-content input[type="text"],
