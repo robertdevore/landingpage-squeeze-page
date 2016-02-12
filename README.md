@@ -2,7 +2,7 @@
 
 This is a landing page template built with Bootstrap 3.3.5, created by [Robert DeVore](http://www.robertdevore.com/) for [Devio Digital](http://www.deviodigital.com)
 
-[View Demo](http://www.robertdevore.com/demo/squeezepage-landingpage/)
+[View Demo](http://www.deviodigital.com/demo/squeezepage-landingpage/)
 
 ### Notes
 
